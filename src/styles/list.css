@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  list-style: armenian;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

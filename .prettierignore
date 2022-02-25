@@ -1,0 +1,16 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+package-lock.json
+
+# testing
+/coverage
+
+# production
+/build
+explorer.html
+
+# there is some bugs with how bitbucket parse markdown files formatted by prettier
+/README.md
+
